@@ -1,54 +1,54 @@
 ---
-title: Contribution
+title: Сотрудничество
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Список с тоннами полезных Discord ресурсов и утилит для пользователей от новичков, до опытных.
 ---
 
-# Contribution
+# Сотрудничество
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Нашли какую-то ошибку или опечатку? Имеете хороший ресурс - который подходит для этого списка? Станьте сотрудником, и будьте на прекрасном списке сотрудников выше!<br/>
+Что-бы быть сотрудником, вы можете сделать запрос на удаление/добавление/изменение этой Вики и добавления себя в список, сделав PR на гитхабе этой Вики или отправив сообщение в ЛС @755792681313108018.
+Вы также можете зайти в [Официальную Гильдию](https://discord.gg/yxbqz9pNxS) Вики в Discord чтобы сотрудничать там.
 
-## Contributors
+## Сотрудники
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+Этот проект занял больше чем один набор рук, и мы гордимся тем - что у нас есть такая команда сотрудников, которые помогли нам с этим проектом!<br/>
+Мы хотим поблагодарить:<br/>
+@856780995629154305 - Поддерживает Веб-сайт <br/>
+@347727875266576395 - Архитектор Вики <br/>
+@391660873409888277 - Попавшие Вики <br/>
+@363481883369013259 - GitHub Менеджер / Организатор документации<br/>
+@337654195526303746 - Исследователь ресурсов / Поддерживающий<br/>
+@337104786593939456 - Организатор документации<br/>
+@485676072176713729 - Исследователь ресурсов / Поддерживающий<br/>
+@762387276595724308 - Исследователь ресурсов / Поддерживающий<br/>
+@378537973215657984 - Контент и Комьюнити менеджер / Организатор документации<br/>
+@287711497118023692 - Resources Researcher / Организатор документации<br/>
+@192060404501839872 - Дизайнер<br/>
+@386861188891279362 - Архитектор веб-сайта / Организатор документации<br/>
+@102102717165506560 - Консультант по развитию / Куратор ресурсов<br/>
+@755792681313108018 - *Это моя идея, и я делал все что выше*
 
-## How to test changes locally
+## Как тестировать изменения локально
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Есть хороший PR, но незнаешь как он будет выглядеть? Не проблема!<br/>
+Если ты в форке репозитория это легче лёгкого, просто выполни эти 2 команды:
 
-```
+```ansi
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Это скачивает все репозитории которые требует наша система документации (Docusaurus). Тебе нужно будет выполнить эту команду - только 1 раз.
 
-```
+```ansi
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Эта команда начинает веб-сервер (по умолчанию на ``localhost:3000``) и должна быть выполнена каждый раз когда вы хотите начать изменять.
+Ее не нужно запускать каждый раз когда вы что-то изменяете, Docusaurus автоматически перезагрузит веб-сервер когда он обнаружит изменения!
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Как только вы получили работающую копию сайта локально, вы готовы сотрудничать!
+Заметки: Пожалуйста, используйте ``<br/>`` для символов новой линии<br/>
+Нужная версия Node.js >= ``12.13.0``
+Если вы используете Yarn: нужная версия >= ``1.5``
