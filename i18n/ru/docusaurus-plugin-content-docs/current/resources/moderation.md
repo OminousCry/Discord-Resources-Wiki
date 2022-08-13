@@ -4,7 +4,7 @@ sidebar_position: 6
 description: Ресурсы для модерации
 ---
 
-# Moderation
+# Модерация
 
 ### **Modcast Podcast** (recently affiliated)
 > __Описание:__ Подкаст, созданный модераторами для модераторов.   <br/>
