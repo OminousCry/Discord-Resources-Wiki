@@ -9,11 +9,11 @@ description: Интересные ссылки
 https://tryitands.ee/ | Попробуй и увидь   <br/>
 https://shutplea.se/ | Заткнись птичка   <br/>
 https://i-dont-ca.re/ | О документации   <br/>
-https://just-read.it/ | Прочти как-нибудь ошибку   <br/>
-https://when.lol/ | Когда я спрашивал   <br/>
+https://just-read.it/ | Как-нибудь прочти ошибку   <br/>
+https://when.lol/ | Когда я это спрашивал   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
-https://nohello.com/ | Не говори просто Привет   <br/>
-https://nohello.net/ | Не говори просто Привет 2.0 <br/>
+https://nohello.com/ | Не говори Привет   <br/>
+https://nohello.net/ | Не говори Привет 2.0 <br/>
 https://dtesters.glitch.me/pin | Проверь когда-нибудь закрепленные   <br/>
 https://dead-ch.at/ | Нет мертвому чату   <br/>
 https://dontasktoask.com/ | не спрашивай чтобы спросить   <br/>

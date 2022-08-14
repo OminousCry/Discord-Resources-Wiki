@@ -1,10 +1,10 @@
 ---
-title: Official Discord PDFs
+title: Официальные PDF
 sidebar_position: 5
 description: Official PDFs from discord.
 ---
 
-# Official Discord PDFs
+# УДАЛЕНО В НОВОЙ ВЕРСИИ
 ### **How to Start Your Own Server**
 > __Description:__ A guide to starting your own servers.   <br/>
 __Link:__ [How To Start Your Own Server](https://cdn.discordapp.com/attachments/847724269672333323/847727389541793802/Onboarding_Self_Service_Onesheet_1.pdf)
