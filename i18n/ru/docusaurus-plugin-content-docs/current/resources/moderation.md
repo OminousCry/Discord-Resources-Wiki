@@ -6,7 +6,7 @@ description: Ресурсы для модерации
 
 # Модерация
 
-### **Modcast Podcast** (recently affiliated)
+### **Modcast Podcast** (недавно присоединились)
 > __Описание:__ Подкаст, созданный модераторами для модераторов.   <br/>
 __Ссылка:__ [Modcast Podcast](https://modcast.network/)   <br/>
 __Авторские права:__ [Команда ModPod](https://modcast.network/meet-the-team/) 
