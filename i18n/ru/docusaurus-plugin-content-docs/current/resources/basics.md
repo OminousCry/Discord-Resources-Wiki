@@ -32,9 +32,9 @@ __Ссылка:__ [Сабреддит Discord](https://www.reddit.com/r/discorda
 > __Описание:__ Официальная страница Discord в Twitter.   <br/>
 __Ссылка:__ [Discord в Twitter](https://twitter.com/discord)
 
-## **Страница Discord в YouTube**
-> __Описание:__  Официальная страница Discord в YouTube.   <br/>
-__Ссылка:__ [Discord в Youtube](https://www.youtube.com/c/discord)
+## **Канал Discord на YouTube**
+> __Описание:__ Официальный Канал Discord на YouTube.   <br/>
+__Ссылка:__ [Канал на Youtube](https://www.youtube.com/c/discord)
 
 ## **Центр помощи Discord**
 > __Описание:__ Официальная страница Discord с множеством полезных статей по множеству тем.   <br/>
@@ -45,5 +45,5 @@ __Ссылка:__ [Центр помощи Discord](https://support.discord.com)
 __Ссылка:__ [Центр безопасности Discord](https://discord.com/safety)
 
 ## **Загрузка Discord**
-> __Описание:__ Все ссылки на загрузку официальных клиентов Discord (скачать Discord!)   <br/>
+> __Описание:__ Все ссылки на загрузку официальных клиентов Discord. (скачать Discord!)   <br/>
 __Ссылка:__ [Клиенты Discord](https://discord.com/download)
