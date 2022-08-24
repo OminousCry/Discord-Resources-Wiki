@@ -6,10 +6,10 @@ description: Интересные ссылки
 
 # Интересные ссылки
 
-https://tryitands.ee/ | Попробуй и увидь   <br/>
+https://tryitands.ee/ | Попробуй и пойми   <br/>
 https://shutplea.se/ | Заткнись птичка   <br/>
 https://i-dont-ca.re/ | О документации   <br/>
-https://just-read.it/ | Как-нибудь прочти ошибку   <br/>
+https://just-read.it/ | Прочти когда-нибудь ошибку   <br/>
 https://when.lol/ | Когда я это спрашивал   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
 https://nohello.com/ | Не говори Привет   <br/>
