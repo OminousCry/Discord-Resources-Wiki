@@ -1,24 +1,24 @@
 ---
-title: Official Forms
+title: Оффициальные формы
 sidebar_position: 3
-description: Official forms from discord.
+description: Оффициальные формы Discord'a.
 ---
 
-# Official Forms
+# Оффициальные формы
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
-__Link:__ [Discord Report Form](https://dis.gd/report)
+## **Форма жалоб** 
+> __Описание:__ Пожалуйся на проблему к команде Доверия и Безопасности Discord'a.   <br/>
+__ссылка:__ [Форма жалоб Discord'а](https://dis.gd/report)
 
-## **Support Form** 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
-__Link:__  [Discord Support Form](https://dis.gd/contact)
+## **Форма помощи** 
+> __Описание:__ Нужна помощь? Подай запрос к команде Discord'а.   <br/>
+__Ссылка:__ [Форма помощи Discord а](https://dis.gd/contact)
 
-## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
-__Link:__  [Discord Feedback Form](https://dis.gd/feedback)
+## **Отзывы** 
+> __Описание:__ Оставляй озывы команде Discord'а.   <br/>
+__Ссылка:__ [Форма отзывов Discord а](https://dis.gd/feedback)
 
 
-## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
-__Link:__ [Discord TnS](https://dis.gd/request)
+## **Discord Доверие и Безопасность** 
+> __Описание:__ Подай запрос к команде Доверия и Безопасности Discord'а.   <br/>
+__Ссылка:__ [Discord ДиБ](https://dis.gd/request)
