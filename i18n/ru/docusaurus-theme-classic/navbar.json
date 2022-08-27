@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Discord Resources",
+    "message": "Discord Ресурсы",
     "description": "The title in the navbar"
   },
   "item.label.Wiki": {
-    "message": "Wiki",
+    "message": "Вики",
     "description": "Navbar item with label Wiki"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "Блог",
     "description": "Navbar item with label Blog"
   }
 }
