@@ -1,88 +1,88 @@
 ---
-title: Design
+title: Дизайн
 sidebar_position: 5
-description: Design tools
+description: Инструменты для дизайна
 ---
 
-# Design
-### **Material Design Icons**
-> __Description:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
-__Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
-__Credit:__ @github:Templarian
+# Дизайн
+### **Иконки в Материал Дизайне**
+> __Описание:__ Сборка иконок, посвещенных материал дизайну, позволяющие иметь пользовательский: шрифт, размер и цвет. <br/>
+__Ссылка__: [Иконки в Материал Дизайне](https://materialdesignicons.com/)  <br/>
+__Автор__: @github:Templarian
 
-### **Google Fonts Icons**
-> __Description:__ A collection of common icons based around web actions, provided by Google. <br/>
-__Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
-__Credit:__ @github:google
+### **Иконки Google Шрифтов**
+> __Описание__: Сборка общих иконок, которые основанны на веб действиях, и предоставлены компанией Google. <br/>
+__Ссылка__: [Иконки Google Шрифтов](https://fonts.google.com/icons) <br/>
+__Автор__: @github:google
 
-### **Branding Style Guides**
-> __Description:__ A collection of different company's branding, including Discords.   <br/>
-__Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
+### **Помощь по стилю брендинга**
+> __Описание__: Коллекция брендинга разных компаний, включая Discord'а.   <br/>
+__Ссылка__: [Помощь по стилю брендинга](https://brandingstyleguides.com/)
 
-### **Evernote Design Bookmarks**
-> __Description:__ A list of bookmarks for everything design-resources.  <br/>
-__Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
+### **Закладки дизайна Evernote**
+> __Описание__: Список закладок для всего что связано с ресурсами дизайна.  <br/>
+__Ссылка__: [Evernote Дизайн](https://www.evernote.design/)  <br/>
 
 ### **Simpleicons**
-> __Description:__ A list of simple icons, including brand icons.   <br/>
-__Link:__ [Simpleicons](https://simpleicons.org/)
+> __Описание__: Список простых иконок, включая иконки брендов.   <br/>
+__Ссылка__: [Simpleicons](https://simpleicons.org/)
 
 ### **Heroicons**
-> __Description:__ Hand-crafted SVG icons.   <br/>
-__Link:__ [Heroicons](https://heroicons.com/)
+> __Описание__: SVG иконки, сделанные своими руками.   <br/>
+__Ссылка__: [Heroicons](https://heroicons.com/)
 
 ### **Coolors**
-> __Description:__ Color schemes generator.   <br/>
-__Link:__ [Coolors](https://coolors.co/)
+> __Описание__: Генератор цветовых тем.   <br/>
+__Ссылка__: [Coolors](https://coolors.co/)
 
-### **The Noun Project**
-> __Description:__ Over 3 million community-contributed icons along with icon customization and an API.  <br/>
-__Link:__ [The Noun Project](https://thenounproject.com/)
+### **The Noun проект**
+> __Описание__: Сообщество с более чем 3-х миллионов иконок, вместе с настройкой иконок и API.  <br/>
+__Ссылка__: [The Noun Проект](https://thenounproject.com/)
 
 ### **Adobe Color**
-> __Description:__ A color theme creator with connectivity across Adobe products.  <br/>
-__Link:__ [Adobe Color](https://color.adobe.com/)
+> __Описание__: Создатель цветовой темы с подключением вокруг продуктов Adobe.  <br/>
+__Ссылка__: [Adobe Color](https://color.adobe.com/)
 
 ### **Open Color**
-> __Description:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
-__Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
-__Credit:__ @github:yeun
+> __Описание__: Набор цветовых схем и библиотек оптимизированных для пользовательских интерфейсов, с открытым исходным кодом.  <br/>
+__Ссылка__: [Open Color](https://yeun.github.io/open-color/)  <br/>
+__Автор__: @github:yeun
 
-### **Teeny Icons**
-> __Description:__ A set of minimal 1px icons.  <br/>
-__Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__CREDIT:__ @github:@teenyicons
+### **Teeny Иконки**
+> __Описание__: Набор минимальных 1пиксельных иконок.  <br/>
+__Ссылка__: [Teeny Иконки](https://teenyicons.com/)  <br/>
+__Автор:__ @github:@teenyicons
 
 ### **Streamline**
-> __Description:__ Over 100k icons, illustrations, and emojis.  <br/>
-__Link:__ [Streamline](https://streamlinehq.com/)  
+> __Описание__: Больше чем 100 тысяч иконок, иллюстраций и эмодзи.  <br/>
+__Ссылка__: [Streamline](https://streamlinehq.com/)  
 
-### **Feather Icons**
-> __Description:__ Simple, open-source icons.  <br/>
-__Link:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit:__ @github:@feathericons
+### **Feather Иконки**
+> __Описание__: Простые иконки с открытым исходным  кодом.  <br/>
+__Ссылка__: [Feather Иконки](https://feathericons.com/)  <br/>
+__Автор__: @github:@feathericons
 
 ### **Spectrum**
-> __Description:__ Minimal, consistent UI icons.  <br/>
-__Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
+> __Описание__: Минимальные и последовательные иконки для интерфейса.  <br/>
+__Ссылка__: [Spectrum](https://spectrum.adobe.com/page/icons/)  
 
 ### **Font Awesome**
-> __Description:__ Vector icons and social logos.  <br/>
-__Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit:__ @github:@FortAwesome
+> __Описание__: Векторные иконки и социальные лого.  <br/>
+__Ссылка__: [Font Awesome](https://fontawesome.com/)  <br/>
+__Автор__: @github:@FortAwesome
 
 ### **ICONS8**
-> __Description:__ Icons, illustrations, photos, music, and design tools.  <br/>
-__Link:__ [ICONS8](https://icons8.com/)  
+> __Описание__: Иконки, илюстрации, фото, музыка и дизайн инструменты.  <br/>
+__Ссылка__: [ICONS8](https://icons8.com/)  
 
 ### **unDraw**
-> __Description:__ Free, open-source illustrations.  <br/>
-__Link:__ [Feather Icons](https://undraw.co/)  
+> __Описание__: Бесплатные илюстрации с открытым исходным кодом.  <br/>
+__Ссылка__: [Feather Icons](https://undraw.co/)  
 
 ### **tldraw**
-> __Description:__ A simple drawing app.  <br/>
-__Link:__ [tldraw](https://www.tldraw.com/)
+> __Описание__: Простое приложения для рисования.	<br/>
+__Ссылка__: [tldraw](https://www.tldraw.com/)
 
 ### **Freepik**
-> __Description:__ Free vectors, stock photos, and PSD.  <br/>
-__Link:__ [Freepik](https://freepik.com/) 
+> __Описание__: Бесплатные векторы, сток картинки, и PSD.	<br/>
+__Ссылка__: [Freepik](https://freepik.com/) 

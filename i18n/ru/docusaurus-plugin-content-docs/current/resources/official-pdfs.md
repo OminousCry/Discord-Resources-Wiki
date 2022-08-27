@@ -1,6 +1,6 @@
 ---
 title: Официальные PDF
-sidebar_position: 5
+sidebar_position: -1
 description: Official PDFs from discord.
 ---
 
