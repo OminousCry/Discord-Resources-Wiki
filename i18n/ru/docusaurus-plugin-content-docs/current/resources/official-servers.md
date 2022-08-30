@@ -32,7 +32,7 @@ __Ссылка:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 @gg/discordgameslab
 
 ## **Discord Safety**
-> __Описание:__ На данный момент в переработке.  <br/>
+> __Описание:__ На данный момент перерабатывается.  <br/>
 __Ссылка:__ [Discord Safety](https://discord.gg/safety)
 
 @gg/safety

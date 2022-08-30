@@ -8,7 +8,7 @@ description: Интересные ссылки
 
 https://tryitands.ee/ | Попробуй и пойми   <br/>
 https://shutplea.se/ | Заткнись птичка   <br/>
-https://i-dont-ca.re/ | О документации   <br/>
+https://i-dont-ca.re/ | Об этой документации   <br/>
 https://just-read.it/ | Прочти когда-нибудь ошибку   <br/>
 https://when.lol/ | Когда я это спрашивал   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
@@ -16,13 +16,13 @@ https://nohello.com/ | Не говори Привет   <br/>
 https://nohello.net/ | Не говори Привет 2.0 <br/>
 https://dtesters.glitch.me/pin | Проверь когда-нибудь закрепленные   <br/>
 https://dead-ch.at/ | Нет мертвому чату   <br/>
-https://dontasktoask.com/ | не спрашивай чтобы спросить   <br/>
-https://dtesters.glitch.me/dev | Без дев клиента   <br/> 
-https://annoying.name/ | раздражающее имя   <br/>
-https://ian-key.xyz/ | Какой же это Иан???   <br/>
-https://ian-my-beloved.xyz/ | Мой любимый Иан   <br/>
-https://goldensun.club/ | Крутые форумы рикролла   <br/>
-https://willianevergetdevbadge.xyz/ | Если кратко: НЕТ :(   <br/>
+https://dontasktoask.com/ | не спрашивай для спрашивания   <br/>
+https://dtesters.glitch.me/dev | Без клиента для разработчиков  <br/> 
+https://annoying.name/ | это раздражающее имя   <br/>
+https://ian-key.xyz/ | Какой же это Ян???   <br/>
+https://ian-my-beloved.xyz/ | Мой любимый Ян   <br/>
+https://goldensun.club/ | Крутые рикролл форумы   <br/>
+https://willianevergetdevbadge.xyz/ | (получит ли когда-нибудь Ян значек разработчика) Если кратко: НЕТ :(   <br/>
 https://tennineeightsevensixfivefourthreetwo.one/ | Отсчет до рикролла   <br/>
 https://purpzie.monster/ | монстр пурпзи   <br/>
 https://letterh.xyz/ | буква h   <br/>
@@ -63,8 +63,8 @@ https://shitcord.com/ | говнокорд <br/>
 https://ban-cs.xyz/ | Хватит заниматься информатикой  <br/>
 https://xkcd.com/ | Веб-комикс о романтике, сарказме, математике, и языке.  <br/>
 https://mcbroken.com/ | сломана ли машинка для мороженного  <br/>
-https://ian-deploy.xyz/ | Иан деплоит  <br/>
-https://ian1-deploy.xyz/ | Иан деплоит # 2  <br/>
+https://ian-deploy.xyz/ | Ян деплоит  <br/>
+https://ian1-deploy.xyz/ | Ян деплоит # 2  <br/>
 https://bubblespop.netlify.app/ | пупырчатая пленка  <br/>
 [discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | хз насколько это интересно но я не придумал куда еще это можно вставить  <br/>
 https://fax.pics/ | fax pics  <br/>
