@@ -6,13 +6,6 @@ sidebar_position: 2
 
 # Официальные сервера
 
-## **Discord Testers** 
-> __Описание:__ Официальное место для того чтобы сообщать о багах в Discord! Помогайте находить баги, общайтесь с другими и будьте частью сообщества тестеров!   <br/>
-__Ссылка:__ [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## **Discord Developers**
 > __Описание:__ Официальное место для обсуждения API и SDK Discord'а с разработчиками из сообщества и персоналом Discord'a!   <br/>
 __Ссылка:__ [Discord Developers](https://discord.gg/discord-developers)
