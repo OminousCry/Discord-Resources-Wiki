@@ -1,40 +1,40 @@
 ---
-title: Wiki
-sidebar_label: About
+title: Вікі
+sidebar_label: Про вікі
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Перелік безлічі корисних ресурсів та утиліт Discord для всіх типів користувачів, від новачків до досвідчених користувачів.
 ---
 
-# About
+# Про вікі
 
-## Welcome to Discord Resources Wiki
+## Вітаємо до Discord Resources Wiki
 
-## So what is this thing?
+## Так що ж це таке?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+Засновник цього проекту, @755792681313108018, шукав хороший і зручний список ресурсів Discord, який би охоплював теми від базових знань до просунутих утиліт; список, який буде корисний всім користувачам Discord, від початківців до професіоналів. Але такого списку знайти не вдалося. 
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+І ось, з'явилася ідея!
+За допомогою кількох друзів, які знаються на Discord, разом було створено **Discord Resources Wiki**. Зрештою, проект став таким, яким він є сьогодні, після місяців досліджень, організації та розробки, і ми сподіваємось, що він буде корисним для Вас.
 
-## What am I seeing here?
+## Що я тут бачу?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Ми згрупували схожі ресурси за спільними категоріями та темами, доступ до яких здійснюється зліва на комп'ютері або за допомогою іконки меню на мобільному телефоні. Кожен ресурс має короткий опис, за яким слідує посилання, де можна отримати доступ до нього, а також вказівка на авторів.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Цей сайт буде постійно і часто оновлюватися по мірі того, як ми будемо знаходити нові ресурси, які можуть бути корисними для користувачів Discord по всій платформі!
 
-## Disclaimer
+## Відмова від відповідальності
 
-**We are not affiliated with Discord in any way.**
+**Ми жодним чином не пов'язані з Discord.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Цей сайт є сукупністю більшості ресурсів, на які ми могли натрапити, і в жодному разі не є повністю вичерпним переліком. Ми не претендуємо на права або право власності на будь-який з перелічених тут ресурсів, якщо явно не зазначено інше. Усі авторські права на ресурси вказані в розділі «авторські права» кожного посилання.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Ми намагаємося робити все можливе, щоб вказувати авторство користувачів, де це можливо, однак, ми визнаємо, що деякі ресурси можуть мати неправильні або неповні дані про авторство. Якщо ви знайшли такий ресурс, будь ласка, зв'яжіться з нами, щоб ми могли виправити цю проблему.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Весь наш брендинг та активи належать нам і створені @192060404501839872. Ви не можете використовувати наш брендинг для власного використання або проектів без нашого прямого дозволу.
 
-## Personal Note
+## Особиста примітка
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+Хоча це є необов'язковим, ми були б дуже вдячні, якби ви зазначили, що ми вам допомогли. Ми докладаємо всіх зусиль для пошуку посилань, організації ресурсів та кураторства на сайті, і те, що ви бачите, є кульмінацією наших багатомісячних зусиль.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Допоможіть своїм друзям, знайомим, членам вашої спільноти тощо, поділившись цим проектом з ними!**
