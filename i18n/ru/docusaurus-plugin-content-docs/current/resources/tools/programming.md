@@ -1,107 +1,142 @@
 ---
-title: Programming Related 
+title: Связанное с Программированием 
 sidebar_position: 2
-description: Programming related tools
+description: Инструменты связанные с программированием
 ---
 
-# Programming Related
+# Связанное с Программированием
 
-### **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
-__Link:__ [Autocode](https://autocode.com/)  <br/>
-__Credit:__ @746460957651501196
+## Autocode
 
-### **Stack Overflow**
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
-__Link:__ [Stack Overflow](https://stackoverflow.com/)
+> **Описание:** Autocode превращает JavaScript (Node.js) функции в масштабируемые веб-сервисы, в одно мгновение без необходимости ручной настройки.   <br/>
+**Ссылка:** [Autocode](https://autocode.com/)  <br/>
+**Автор:** @746460957651501196
 
-### **RapidAPI**
-> __Description:__ Find APIs to all purposes.  <br/>
-__Link:__ [RapidAPI](https://rapidapi.com/)
+## Stack Overflow
 
-### **Some Random API**
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
-__Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
-__Credit:__ @423675224395874314 
+> **Описание:** Место для обсуждения и нахождения решений к проблемам связанных с кодингом.  <br/>
+**Ссылка:** [Stack Overflow](https://stackoverflow.com/)
 
-### **Choose A License**
-> __Description:__ Choose a license for your open source project.   <br/>
-__Link:__ [Choose A License](https://choosealicense.com/)
+## RapidAPI
 
-### **Docker**
-> __Description:__ Simplifies development processes.   <br/>
-__Link:__ [Docker](https://www.docker.com/)
+> **Описание:** Тут можно найти различные API для ваших потребностей.  <br/>
+**Ссылка:** [RapidAPI](https://rapidapi.com/)
 
-### **Visual Studio Code**
-> __Description:__ Free and biggest code editing tool. <br/>
-__Link:__ [Visual studio code](https://code.visualstudio.com)  
+## Какойто Рандомный API
 
-### **Docusaurus**
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
-__Link:__ [Docusaurus](https://docusaurus.io/)
+> **Описание:** Разнообразие эндпоинтов для использования разработчиками.  <br/>
+**Ссылка:** [Какойто Рандомный API](https://some-random-api.ml/)  <br/>
+**Автор:** @423675224395874314
 
-### **GitBook**
-> __Description:__ Create docs full of utilities and design options.  <br/>
-__Link:__ [GitBook](https://www.gitbook.com/)
+## Выберите Лицензию
 
-### **GitHub’s Guides and Documentation**
-> __Description:__ Self explanatory.   <br/>
-__Link(s):__ 
-[Docs](https://docs.github.com/en)   <br/>
-[Guides](https://guides.github.com/)   <br/>
-[Community Help](https://github.community/)
+> **Описание:** Выберите лицензию для вашего проекта с открытым исходным кодом.   <br/>
+**Ссылка:** [Выберите Лицензию](https://choosealicense.com/)
 
-### **Github Education Pack**
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
-__Link:__ [Github Education Pack](https://education.github.com/)
+## Docker
 
-### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
-__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
+> **Описание:** Упрощает процессы разработки.   <br/>
+**Ссылка:** [Docker](https://www.docker.com/)
 
-### **HTTPS Statuses**
-> __Description:__ A list of HTTP status codes.   <br/>
-__Link:__ [HTTPS Statuses](https://httpstatuses.com/)
+## Visual Studio Code
 
-### **Does My Site Need HTTPS?**
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
-__Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+> **Описание:** Самая популярная бесплатная утилита для редактирования кода. <br/>
+**Ссылка:** [Visual studio code](https://code.visualstudio.com)  
 
-### **HTTP Toolkit**
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
-__Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-__Credit:__ github:@pimterry
+## Docusaurus
 
-### **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+> **Описание:** Оптимизированный генератор сайтов в React. Docusaurus помогает вам быстро двигатся и писать контент.   <br/>
+**Ссылка:** [Docusaurus](https://docusaurus.io/)
 
-### **Qwerty.dev**
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
-__Link:__ [Qwerty.dev](https://qwerty.dev/)
+## GitBook
 
-### **replit**
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
-__Link:__ [replit](https://replit.com/)
+> **Описание:** Создаватель документации наполненный утилитами и множеством опций дизайна.  <br/>
+**Ссылка:** [GitBook](https://www.gitbook.com/)
 
-### **Regex101**
-> __Description:__ Build, test, and debug regex.   <br/>
-__Link:__ [Regex101](https://regex101.com/)
+## Гиды и Документация по GitHub
 
-### **RegExp Generator**
-> __Description:__ Unicode range RegExp generator.   <br/>
-__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+> **Описание:** Говорит само за себя.   <br/>
+**Ссылки:**
+[Документация](https://docs.github.com/en)   <br/>
+[Гиды](https://guides.github.com/)   <br/>
+[Помощь от Собщества](https://github.community/)
 
-### **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
-__Link:__ [Regex Crossword](https://regexcrossword.com/)
+## GitHub Образовательный Сборник
 
-### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributors. <br/>
-__Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-__Credit:__ @github:freeCodeCamp
+> **Описание:** Бесплатные утилиты разработчика, предоставленные Образовательным Сборником GitHub.   <br/>
+**Ссылка:** [GitHub Образовательный Сборник](https://education.github.com/)
 
-### **Big List of Nasty Strings**
-> __Description:__ A list of strings to help test for edge cases <br/>
-__Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-__Credit:__ @github:minimaxir
+## Публичные API
+
+> **Описание:** Публичные API - это хорошо поддерживаемый список API для использования в твоих проектах, где каждый API категоризирован и документирован.   <br/>
+**Ссылка:** [Публичные API](https://github.com/public-apis/public-apis)
+
+## HTTPS Статусы
+
+> **Описание:** Список статус кодов HTTP.   <br/>
+**Ссылка:** [HTTPS Статусы](https://httpstatuses.com/)
+
+## Нужен ли моему сайту HTTPS?
+
+> **Описание:** Информативная страница объясняющая важность HTTPS.  <br/>
+**Ссылка:** [Нужен ли моему сайту HTTPS?](https://doesmysiteneedhttps.com/)
+
+## HTTP Инструментарий
+
+> **Описание:** Перехватывай и просматривай все свои имитированные HTTP(S) эндпоинты или целые сервера. Переписывай, перенаправляй или вводи ошибки.  <br/>
+**Ссылка:** [HTTP Инструментарий](https://httptoolkit.tech/)  <br/>
+**Автор:** github:@pimterry
+
+## Гид по Markdown
+
+> **Описание:** Гид по Markdown - это бесплатный справочник с открытым исходным кодом который объясняет как использовать Markdown - простой и удобный язык разметки, который вы можете использовать практически в любом документе.   <br/>
+**Ссылка:** [Markdown Guide](https://www.markdownguide.org/)
+
+## Qwerty.dev
+
+> **Описание:** Qwerty.dev (был beautifuldingbats.com) - это коллекция инструментов юникода которые могут помочь вам выделятся в Интернете.   <br/>
+**Ссылка:** [Qwerty.dev](https://qwerty.dev/)
+
+## replit
+
+> **Описание:** Браузерный IDE, компилятор и интерпретатор который поддерживает больше чем 50 языков программирования.   <br/>
+**Ссылка:** [replit](https://replit.com/)
+
+## Regex101
+
+> **Описание:** Создавай, тестируй и отлаживай регулярные выражения.  <br/>
+**Ссылка:** [Regex101](https://regex101.com/)
+
+## Генератор RegExp
+
+> **Описание:** Генератор регулярных выражений в диапазонах юникода.   <br/>
+**Ссылка:** [Генератор RegExp](https://apps.timwhitlock.info/js/regex#)
+
+## Regex Кроссворд
+
+> **Описание:** Учись регулярным выражениям с помощью пазлов и челленджей.   <br/>
+**Ссылка:** [Regex Кроссворд](https://regexcrossword.com/)
+
+## Руководство(а) по участию в ПО с открытым исходным кодом
+
+> **Описание:** Список с различными ресурсаси которые могут помочь с участием в OSS ПО. <br/>
+**Ссылка:** [Как контрибутировать в OSS](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+**Автор:** @github:freeCodeCamp
+
+## Большой список гадких строк
+
+> **Описание:** Список строк которые можно использовать для тестирования крайних случаев. <br/>
+**Ссылка:** [Большой список гадких строк](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+**Автор:** @github:minimaxir
+
+## Бесплатное для разработчиков
+
+> **Описание:** Список бесплатных предложений для разработчиков.  <br/>
+**Ссылка:** [Free for developers](https://free-for.dev/#/) <br/>
+**Автор:** @github:ripienaar
+
+## Сообщения разбитые на страницы используя discord.js
+
+> **Описание:** Пакет, который делает легкими постраничные сообщения используя discord.js. <br/>
+**Ссылка:** [Сообщения разбитые на страницы используя discord.js](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
+**Автор:** @github:sapphiredev

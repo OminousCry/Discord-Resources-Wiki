@@ -1,106 +1,130 @@
 ---
-title: Converters
+title: Преобразователи
 sidebar_position: 6
-description: Converter tools
+description: Инструменты преобразования
 ---
 
-# Converters
-## Timestamp Converters 
-### **HammerTime**
-> __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
-__Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-__Credit:__ @140360880079503362
+# Преобразователи
 
-### **Snow-Stamp (Snowflake to Timestamp Converter)** 
-> __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
-__Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
-__Credit:__ @86913608335773696
+## Преобразователи временных отметок
 
-### **DateTimeCord** 
-> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
-__Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
-__Credit:__ @172557961133162496
+### HammerTime
 
-### **Alfred time converters plugins**
-> __Description:__ Alfred plugins to convert time to timestamps and vice versa.   <br/>
-__Link(s):__   <br/>
+> **Описание:** Выберите дату, скопируйте нужную метку времени из столбца синтаксиса чата, и затем вставьте ее в любое место сообщения чата.   <br/>
+Результатом будет - динамическая временная метка, которая отображается относительно временной зоне человека.   <br/>
+**Ссылка:** [HammerTime](https://hammertime.djdavid98.art/)   <br/>
+**Автор:** @140360880079503362
+
+### Snow-Stamp (Преобразователь Снежинок в Временные метки)
+
+> **Описание:** Преобразует снежинку пользователя в временную метку, которая будет означать когда был создан их аккаунт. <br/>
+**Ссылка:** [Snow-Stamp](https://snowsta.mp/)   <br/>
+**Автор:** @86913608335773696
+
+### DateTimeCord
+
+> **Описание:** Полезный сайт для генерации временного Markdown для Discord. Поддерживает все опции форматирования которые поддерживает Discord, также прямо на сайте показывает предпросмотр того, как оно будет выглядеть в Discord.   <br/>
+**Ссылка:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
+**Автор:** @172557961133162496
+
+### Alfred плагины для преобразования времени
+
+> **Описание:** Alfred плагины для преобразования времени в временные метки и наоборот.   <br/>
+**Ссылки:**   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-__Credit:__ @213023662066892800
+**Автор:** @213023662066892800
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
-> __Description:__ Converts a given time into a Unix timestamp.   <br/>
-__Link:__ [Epoch Converter](https://www.epochconverter.com/) 
+### Преобразователь эпох (Инструменты преобразования Эпох и временных меток Unix)
 
-### **Unix Timestamps Decoder**
-> __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
-__Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
+> **Описание:** Преобразует данное время в Unix временную метку.   <br/>
+**Ссылка:** [Преобразователь Эпох](https://www.epochconverter.com/)
 
-## File Converters 
+### Декодер временных меток Unix
 
-### **EzGif**
-> __Description:__ EzGif is An online tool full with media-related utilities.  <br/>
-__Link:__ [EzGif](https://ezgif.com)
+> **Описание:** Декодирует Временную метку Unix в стандартный формат MM/DD/YYYY.   <br/>
+**Ссылка:** [Декодер Временных Меток Unix](https://www.unixtimestamp.com/)
 
-### **Text Formatting Tools**
-> __Description:__ A website for converting various text formats.   <br/>
-__Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
+## Преобразователи файлов
 
-### **Discord Txt**
-> __Description:__ Used to view .txt files that have been uploaded to Discord.   <br/>
-__Link:__ [Discord Txt](https://txt.discord.website/)
+### EzGif
 
-### **File Converter**
-> __Description:__ Convert file types to others.   <br/>
-__Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-__Credit:__ @Tichau
+> **Описание:** EzGif - это онлайн инструмент наполненный утилитами связанными с мультимедиа.  <br/>
+**Ссылка:** [EzGif](https://ezgif.com)
 
-### **Color Replacer**
-> __Description:__ Replace a specfic colour of an image.  <br/>
-__Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+### Инструменты форматирования текста
 
-### **SVG Converters**
-> __Description:__ High quality SVG converter.  <br/>
-__Link:__ [SVG Converters](https://picsvg.com/)
+> **Описание:** Сайт для преобразования различных текстовых форматов.   <br/>
+**Ссылка:** [Инструменты форматирования текста](http://www.unit-conversion.info/texttools/)
 
-### **SVG Viewer**
-> __Description:__ View SVG files.   <br/>
-__Link:__ [SVG Viewer](https://www.svgviewer.dev/)
+### Discord Txt
 
-### **Youtube Downloader**
-> __Description:__ Download a Youtube video as a file using its URL (either audio only or video). <br/>
-__Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
-__Credit:__ @141065743197405184
+> **Описание:** Используется для просмотра .txt файлов которые были загружены в Discord.   <br/>
+**Ссылка:** [Discord Txt](https://txt.discord.website/)
 
-### **Lottie Image Resizer**
-> __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-__Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
+### Преобразователь файлов
 
-### **.gif to .apng**
-> __Description:__ Converts .gif files to .apng files.   <br/>
-__Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
+> **Описание:** Преобразовывает одни типы файлов в другие.   <br/>
+**Ссылка:** [Преобразователь файлов](https://github.com/Tichau/FileConverter)   <br/>
+**Автор:** @Tichau
 
-### **HTML Color Codes**
-> __Description:__ A site that converts a color into hex code and vice versa.   <br/>
-__Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
+### Заменитель Цвета
 
-### **Image Color Picker**
-> __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
-__Link:__ [Image Color Picker](https://imagecolorpicker.com/)
+> **Описание:** Заменяет указанный цвет на изображениях.  <br/>
+**Ссылка:** [Заменитель Цветов](https://www2.lunapic.com/editor/?action=replace-color)
 
-### **Removebg**
- > __Description:__ Remove any background from an image.   <br/>
- __Link:__ [Removebg](https://www.remove.bg/upload)
+### SVG Преобразователь
 
-### **Erase.bg**
-> __Description:__ Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
-__Link:__ [Erase.bg](https://www.erase.bg/)
+> **Описание:** Качественный преобразователь SVG.  <br/>
+**Ссылка:** [SVG Преобразователи](https://picsvg.com/)
 
-### **Cleanup.pictures**
-> __Description:__ Remove any object, people, text or defects from your pictures.   <br/>
-__Link:__ [Cleanup.pictures](https://cleanup.pictures/)
+### Осмотрщик SVG
 
-### **Video Compressor**
-> __Description:__ A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-__Link:__ [Video Compressor](https://8mb.video/)
+> **Описание:** Просматривайте SVG файлы.   <br/>
+**Ссылка:** [Осмотрщик SVG](https://www.svgviewer.dev/)
+
+### YouTube скачиватель
+
+> **Описание:** СкачиваDownload a YouTube video as a file using its URL (either audio only or video). <br/>
+**Ссылка:** [YouTube Downloader](http://youtube.tpcstld.me/) <br/>
+**Автор:** @141065743197405184
+
+### Лотти Масштабитель Изображений
+
+> **Описание:** Лотти масштабируйте изображения, чтобы ваши лотти файлы были ≤320 пикселей.   <br/>
+**Ссылка:** [Лотти Масштабитель Изображений](https://lottieresizer.tech/)
+
+### .gif в .apng
+
+> **Описание:** Преобразует .gif файлы в .apng файлы.   <br/>
+**Ссылка:** [.gif в .apng](https://www.freeconvert.com/convert/gif-to-apng)
+
+### HTML Цветовые Коды
+
+> **Описание:** Сайт который преобразует цвет в hex код и наоборот.   <br/>
+**Ссылка:** [HTML Цветовые Коды](https://htmlcolorcodes.com/)
+
+### Подбиратель Цвета из Изображений
+
+> **Описание:** Загрузите изображение чтобы получить специфический цвет из него в виде hex кода.   <br/>
+**Ссылка:** [Подбиратель Цвета из Изображений](https://imagecolorpicker.com/)
+
+### Removebg
+
+ > **Описание:** Этот сайт позволяет убрать фон из вашего изображения.   <br/>
+ **Ссылка:** [Removebg](https://www.remove.bg/upload)
+
+### Erase.bg
+
+> **Описание:** Убирайте фон из изображений людей, животных или объектов и скачивайте это изображение в высоком качесте бесплатно.   <br/>
+**Ссылка:** [Erase.bg](https://www.erase.bg/)
+
+### Cleanup.pictures
+
+> **Описание:** Убирайте любые объекты, человек, текст, или дефекты из ваших изображений.  <br/>
+**Ссылка:** [Cleanup.pictures](https://cleanup.pictures/)
+
+### Видео компрессор
+
+> **Описание:** Видео компрессор, который скомпрессирует ваши видео настолько, сколько надо чтобы их можно было отправить используя Discord. У него есть 3 опции: 8МБ, 50МБ и 100МБ, которые войдут в различные ограничения на загрузку.   <br/>
+**Ссылка:** [Видео компрессор](https://8mb.video/)

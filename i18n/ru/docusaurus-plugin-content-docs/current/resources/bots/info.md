@@ -1,65 +1,84 @@
 ---
-title: Information & Lists
+title: Информация и Списки
 sidebar_position: 1
-description: Bot informations and lists
+description: Информация и списки ботов
 ---
 
-# Information & Lists
+# Информация и Списки
 
-## **Unofficial Discord API Docs**
-> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+## Неоффициальная документация Discord API
 
-## **Largest Discord Bots**
-> __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
-__Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
-__Credit:__ @190916650143318016
+> **Описание:**  <br/>
+Неофициальная документация, для недокументированных Discord API. Также содержит план инфраструктуры серверов Discord.
+**Ссылка:** [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
 
-## **Largest Discord Bots (extended version)**
-> __Description:__ A haste link with the 600 biggest bots on Discord, including growth stats.  <br/>
-__Links:__ Get the haste ID from [here](https://unbelievaboat.com/api/botlist), then paste it [here](https://haste.unbelievaboat.com/ID) instead of "ID".  <br/>
-__Credit:__ @261674810914897931
+## Наибольшие Discord боты
 
-## **All Official Discord Bots**
-> __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
-__Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
-__Credit:__ @712626099141476383
+> **Описание:** Легко-читаемый список, который вмещает в себя топ 25 Discord ботов по кол-ву серверов. <br/>
+**Ссылка:** [Наибольшие Discord Боты](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
+**Автор:** @190916650143318016
 
-## **List of Libraries**
-> __Description:__ List of all Discord API libraries and their features.   <br/>
-__Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## Наибольшие Discord Ботов (больше)
 
-## **Discord API Libs**
-> __Description:__ A list of all the Discord API libraries.  <br/>
-__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @460612586061430806
+> **Описание:** Хасте ссылка с 600 наибольших ботах в Discord, включая статистику роста.  <br/>
+**Ссылки:** Получи хасте идентификатор [тут](https://unbelievaboat.com/api/botlist), потом вставь его в ссылке заместо ID [тут](https://haste.unbelievaboat.com/ID).  <br/>
+**Автор:** @261674810914897931
 
-### **Library Rest & WS Coverage Comparisons**
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
+## Все Официальные Боты
 
-## **Discord Gateway Intents Explainer**
-> __Description:__ Info about Discord bot intents.  <br/>
-__Link:__ [Discord Gateway Intents Explainer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
-__Credit:__ @190916650143318016
+> **Описание:** Список ботов, которые были официально сделаны Discord.   <br/>
+**Ссылка:** [Все Официальные Боты](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
+**Автор:** @712626099141476383
 
-## **Best Bot Practices**
-> __Description:__ Best practices for Discord bots.   <br/>
-__Link:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
-__Credit:__ @66237334693085184
+## Список Библиотек
 
-## **Discord Bots**
-> __Description:__ A list of publicly available Discord bots.   <br/>
-__Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
-__Credit:__ Discord Bots’ site team @66237334693085184
+> **Описание:** Список всех Discord API библиотек и их фич.   <br/>
+**Ссылка:** [Список Библиотек](https://libs.advaith.io/)   <br/>
+**Автор:** @190916650143318016
 
-## **List of Bot Lists** (BotBlocks)
-> __Description:__ A centralized list of Discord bot lists.   <br/>
-__Link:__ [Bots Lists List](https://botblock.org/lists) 
+## Discord API Библиотеки
 
-## **DStat**
-> __Description:__ Get statistics about your Discord bot.   <br/>
-__Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
-__Credit:__ @255834596766253057
+> **Описание:** Список всех библиотек Discord API.  <br/>
+**Ссылка:** [Discord API Библиотеки](https://github.com/apacheli/discord-api-libs)  <br/>
+**Автор:** @460612586061430806
+
+### Сравнения покрытий Rest и WS в библиотеках
+
+> **Описание:** Большущее сравнение использования Rest и WS, разными Discord API библиотеками.   <br/>
+(также посмотри [Неофициальный Discord API](https://discordapi.com/unofficial/) для документаций и библиотек)   <br/>
+**Ссылка:** [Сравнения покрытий Rest и WS в библиотеках](https://discordapi.com/unofficial/comparison.html) 
+
+## Пояснение Discord Gateway Intents
+
+> **Описание:** Информация о Discord бот intents.  <br/>
+**Ссылка:** [Пояснение Discord Gateway Intents](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
+**Автор:** @190916650143318016
+
+## Лучшие практики Discord Ботов
+
+> **Описание:** Лучшие практики для Discord ботов.   <br/>
+**Ссылка:** [Лучшие практики Discord Ботов](https://github.com/meew0/discord-bot-best-practices)   <br/>
+**Автор:** @66237334693085184
+
+## Discord Bots
+
+> **Описание:** Список публично доступных Discord ботов.   <br/>
+**Ссылка:** [Discord Bots](https://discord.bots.gg/)   <br/>
+**Автор:** Команда сайта Discord Bots @66237334693085184
+
+## Список, списков ботов (BotBlocks)
+
+> **Описание:** Централизированный список списков ботов.   <br/>
+**Ссылка:** [Список, списков ботов](https://botblock.org/lists) 
+
+## DStat
+
+> **Описание:** Получайте статистику своего Discord бота.   <br/>
+**Ссылка:** [DStat](https://github.com/benricheson101/dstat) <br/>
+**Автор:** @255834596766253057
+
+### Руководство Идиота
+
+> **Описание:** Неофициальное руководство написанное идиотами, для начинающих пользователей discord.js.   <br/>
+**Ссылка:** [Руководство Идиота](https://anidiots.guide/) <br/>
+**Автор:** @github:AnIdiotsGuide

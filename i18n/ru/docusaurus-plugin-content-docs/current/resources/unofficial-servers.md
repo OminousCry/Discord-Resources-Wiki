@@ -1,12 +1,12 @@
 ---
-title: Неоффициальные сервера
+title: Неофициальные сервера
 sidebar_position: 8
-description: Неоффициальные сервера связанные с Discord
+description: Неофициальные сервера посвященные Discord
 ---
 
-# Неоффициальные сервера
+# Неофициальные сервера
 
-## **Discord API**
+## Discord API
 
 > **Описание:** Сервер посвященный для информации и помощи с Discord API.   <br/>
 **Ссылка:** [Discord API](https://discord.gg/discord-api)   <br/>
@@ -14,16 +14,15 @@ description: Неоффициальные сервера связанные с D
 
 @gg/discord-api
 
-## **Discord Linux**
+## Discord Linux
 
-> **Описание:** Сервер посвященный для информации и помощи с Linux версиями Discord <br/>
+> **Описание:** Сервер посвященный информации и помощи с Linux версиями Discord <br/>
 **Ссылка:** [Discord Linux](https://discord.gg/discord-linux)   <br/>
 **Автора:** Команда Discord Linux (владелец @86201442112671744)
 
 @gg/discord-linux
 
-
-## **Discord Networking**
+## Discord Networking
 
 > **Описание:** Место в котором все кто помогают серверам оперировать: могут познакомится, делится советами и создавать прочные партнерские отношения.   <br/>
 **Ссылка:** [Discord Networking](https://discord.gg/BcXExxeGVG) (Требуется запрос для доступа)   <br/>
@@ -31,30 +30,34 @@ description: Неоффициальные сервера связанные с D
 
 @gg/BcXExxeGVG
 
-## **Displace**
+## Displace
 
 > **Описание:** Самое большое сообщество про Discord. Получай: все новости, помощь и ресурсы Discord для твоего сообщества.   <br/>
-**Ссылки:** [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
+**Ссылки:** <br/>
+[Displace server](https://discord.gg/displace) <br/>
+[Displace Website](https://dat.place/)   <br/>
 **Автора:** Команда Displace (владелец @249287049482338305)
 
 @gg/displace
 
-## **Community Architects**
+## Community Architects
 
-> **Описание:** Мы стремимся объединять: модераторов, администраторов, дизайнеров сообществ и больше - что-бы делится и сотрудничать при постройке сообществ.   <br/>
-**Ссылки:** [Discord Сервер Community Architects](https://discord.gg/communityarchitects) [Сайт Community Architects](https://communityarchitects.net)   <br/>
+> **Описание:** Сервер стремящийся объединить модераторов, администраторов, дизайнеров сообществ и многих других - чтобы делится и сотрудничать при постройке сообществ.   <br/>
+**Ссылки:** <br/>
+[Discord Сервер Community Architects](https://discord.gg/communityarchitects) <br/>
+[Сайт Community Architects](https://communityarchitects.net)   <br/>
 **Автора:** Команда Community Architects (владелец @354309005037797376)
 
 @gg/communityarchitects
 
-## **Moderatoren HQ**
+## Moderatoren HQ
 > **Описание:** Moderatoren HQ (ModHQ) - это Немецкое сообщество, где модераторы и администраторы могут объединится и иметь обсуждения на темы о модерации Discord серверов. ModHQ специализируется на глубоких погружениях в форме Семинаров по различным темам, связанных с созданием безопасного и инклюзивного сообщества со знающей и поддерживающей командой модераторов. Англоговорящие также приветствуются.	<br/>
 **Ссылка:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
 **Автора:** Команда ModHQ (владелец @160462182344032256)
 
 @gg/modhq
 
-## **The Coding Den**
+## The Coding Den
 
 > **Описание:** The Coding Den - это мирное сообщество кодеров, которые сосреготочены помогать новым и подобным опытным программистам.   <br/>
 **Ссылка:** [The Coding Den](https://discord.gg/code)   <br/>
@@ -62,28 +65,30 @@ description: Неоффициальные сервера связанные с D
 
 @gg/code
 
-## **Discord Hotline**
+## Discord Hotline
 
 > **Описание:** Сообщество для модераторов, для обсуждения модерации и тем связанных с Discord.   <br/>
 **Ссылка:** (только по направлению)   <br/>
 **Автора:** Команда Discord Hotline (владеет @108432868149035008)
 
-## **The Fish Project**
+## The Fish Project
 
 > **Описание:** Предоставление ранних обнаружений фишинговых атак, до того как они могут быть использованы для атаки пользователей.   <br/>
-**Ссылка:** (только по направлению) (требуется запрос на доступ)   <br/>
+**Ссылка:** (только по направлению или запросу на доступ)   <br/>
 **Автора:** Команда The Fish Project (владеет @459235187469975572)
 
-## **Dev Hub**
+## Dev Hub
 
 > **Описание:** Сообщество для объединения разработчиков и опытных вместе для обмена идеями и обсуждением тем связанных с Discord.   <br/>
 **Ссылка:** (только по направлению)   <br/>
 **Автора:** Команда Dev Hub (владеет @386861188891279362)
 
-## **The Programmers Hangout**
+## The Programmers Hangout
 
 > **Описание:** The Programmers Hangout - это общецелевое сообщество программистов с акцентом на разговоры как с друзьями, предназначенное для всех уровней опыта. С фокусом на проекты с открытым исходным кодом, образованию, обучению, карьерному росту и помощи в программировании.  <br/>
-**Ссылки:** [Discord Сервер The Programmers Hangout](https://discord.gg/programming) | [Сайт The Programmers Hangout](https://theprogrammershangout.com/)   <br/>
+**Ссылки:** <br/>
+[Discord Сервер The Programmers Hangout](https://discord.gg/programming) <br/>
+[Сайт The Programmers Hangout](https://theprogrammershangout.com/)   <br/>
 **Автора:** Команда The Programmers Hangout (владеет @335628039302021121)
 
 @gg/programming

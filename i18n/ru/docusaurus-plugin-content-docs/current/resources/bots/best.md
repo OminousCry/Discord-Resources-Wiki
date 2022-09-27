@@ -1,239 +1,298 @@
 ---
-title: Best Discord Bots
+title: Лучшие Discord Боты
 sidebar_position: 2
-description: Discord bot recommendations
+description: Реккомендации Discord ботов
 ---
 
-# Best Discord Bots
-## **Moderation**
+# Лучшие Discord Боты
+## **Модерация**
 ### **Zeppelin**
-> __Description:__ Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind.   <br/>
-__Link(s):__   <br/>
-[Zeppelin Website](https://zeppelin.gg/)   <br/>
+> __Описание:__ Zeppelin это приватный бот модерации для Discord, разработан с учетом больших серверов и надежности.   <br/>
+__Ссылки:__   <br/>
+[Zeppelin Вебсайт](https://zeppelin.gg/)   <br/>
 [Github](https://github.com/Dragory/ZeppelinBot)   <br/>
-[Compendium](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
-[Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
-[Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
-__Credit(s):__ @106391128718245888 @347727875266576395
+[Компендиум](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
+[Утилита Установки](https://setup-tool.zeppelin.gg)   <br/>
+[Справочник](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
+__Автора:__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
-> __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
-__Credit(s):__  @220081163660689408 @200987752794292224
+> __Описание:__ Многофункциональный бот для типичной модерации.   <br/>
+__Ссылка:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
+__Автора:__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
-> __Description:__  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
-__Link:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
-__Credit:__ @113156185389092864
+> __Описание:__  
+Vortex - это бот разработанный для обеспечения безопасности твоему серверу, и организации персонала сервера. Его пакет модерации и логирования: следят за вашими участниками и держат ваших модераторов ответственными. Его возможности автоматической-модерации также позволяют отфильтровывать чёткие типы поведения без вмешательства человека, облегчая нагрузку на персонал. И наконец, Vortex разработан, чтобы быть быстрым и простым в использовании. <br/>
+__Ссылка:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
+__Автор:__ @113156185389092864
 
 ### **GearBot**
-> __Description:__ Trustworthy general moderation bot.   <br/>
-__Link(s):__   <br/>
-[GearBot Website](https://gearbot.rocks/)   <br/>
-[Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
-__Credit:__ @106354106196570112
+> __Описание:__ Надежный бот типичной модерации.   <br/>
+__Ссылки:__   <br/>
+[GearBot Вебсайт](https://gearbot.rocks/)   <br/>
+[Пригласить GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
+__Автор:__ @106354106196570112
 
 
 ### **Fire**
-> __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
-__Link(s):__   <br/>
-[Fire Website](https://getfire.bot/)   <br/>
-[Invite Fire](https://inv.wtf/bot)   <br/>
-__Credit:__ @287698408855044097
+> __Описание:__ Бот модерации и утилит, который всегда актуален и хорош.   <br/>
+__Ссылки:__   <br/>
+[Fire Вебсайт](https://getfire.bot/)   <br/>
+[Пригласить Fire](https://inv.wtf/bot)   <br/>
+__Автор:__ @287698408855044097
 
-### **AutoModerator** 
-> __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
-__Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+
+### Blargbot
+> **Описание:** Полностью настраиваемый многоцелевой бот. <br/>
+**Ссылка:** [Blargbot](https://blargbot.xyz/)  <br/>
+**Автор:** @103347843934212096
+
+### AutoModerator
+> __Описание:__ Типичный бот модерации, с кнопками и выпадающими списками.   <br/>
+__Ссылка:__ [AutoModerator Вебсайт](https://automoderator.app/)   <br/>
+__Автора:__ @223703707118731264 @104425482757357568
+
+### Sapphire
+
+> **Описание:** Многоцелевой бот, с многими регулярно обновляемыми фичами. <br/>
+**Ссылки:**  <br/>
+[Sapphire Вебсайт](https://sapph.xyz/)  <br/>
+[Пригласить Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
+**Автора:** @265236642476982273
 
 ### **Beemo**
-> __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
-__Link:__ [Website](https://beemo.gg/)   <br/>
-__Credit:__ @192048286331437056
+> __Описание:__ Beemo - это анти-спам Discord бот, который позволяет тебе оборудовать свой сервер с мощным анти-бот алгоритмом, который работает в фоне и останавливает рейды от бот-пользователей направленных на твой сервер. Его анти-бот автоматически и эффективно устраняет угрозы рейдов, массово блокируя их на месте с помощью хорошо настроенного алгоритма обнаружения, который избегает реальных пользователей  <br/>
+__Ссылка:__ [Вебсайт](https://beemo.gg/)   <br/>
+__Автор:__ @192048286331437056
 
-### **Beemo Helper (addition)**
-> __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
-__Link(s):__   <br/>
-[Invite](https://redirects.polar.blue/beemohelper)   <br/>
-__Credit:__ @619284841187246090
+### **Beemo Помощник (дополнение)**
+> __Описание:__ Beemo Помощник - разработан для того чтобы помогать Beemo (https://beemo.gg/) боротся с рейдами бот-пользователей. Как только Beemo обнаружит рейд, Beemo Helper начнет блокировать пользователей снизу наверх по списку, эффективно увеличивая скорость блокировки в 2 раза.   <br/>
+__Ссылка:__   <br/>
+[Пригласить Beemo](https://redirects.polar.blue/beemohelper)   <br/>
+__Автор:__ @619284841187246090
 
 ### **Red Bot**
-> __Description:__ Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable. This is a self-hosted bot – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, and more!   <br/>
-__Link:__ [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot) 
-
+> __Описание:__ Red, это полностью модулярный бот - означая то, что все фичи/команды могут быть отключены по твоему желанию, делая его польностью настраиваемым. Этот бот нужно самостоятельно хостить, то есть вам нужно будет размещать и поддерживать свой собственный экземпляр. Вы можете превратить Red в бота-администратора, музыкального бота, бота-викторину и многое другое! <br/>
+__Ссылка:__ [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot)
 
 ### **Crosslink**
-> __Description:__ Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe! 
-__Link(s):__ 
-[Website](https://panleyent.com/crosslink/)   <br/>
-[Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
-[Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
-__Credit:__ @249287049482338305
-
+> __Описание:__ Crosslink - это умное обнаружение ссылок и сервис репутации, разработанное чтобы сделать фильтрацию ссылок удобной для модераторов и владельцев сообществ. Благодаря тому что удобство настройки на высоте, бот легко-используемый пользователями Discord. Наша система репутации принимает во внимание третьи стороны, а также нашу собственную базу данных локальных доменов, чтобы обеспечить безопасность вашего сообщества! <br/> 
+__Ссылки:__ 
+[Вебсайт](https://panleyent.com/crosslink/)   <br/>
+[Пригласить CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
+[Полная документация](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
+__Автор:__ @249287049482338305
 
 ### **Safelink** 
-> __Description:__ A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
-__Link:__ [Safelink](https://safelink.gg/)   <br/>
-__Credit:__ @282565295351136256 @684155404078415890
-
+> __Описание:__ Бот, который может обнаружить: различные указанные, мошеннические (Nitro, Steam и больше типов мошенничества), и много других ссылок, с внутренним API - который использует ИИ чтобы постоянно улучшать обнаружение.   <br/>
+__Ссылка:__ [Safelink Вебсайт](https://safelink.gg/)   <br/>
+__Автора:__ @282565295351136256 @684155404078415890
 
 ### **Fish**
-> __Description:__ Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection.   <br/>
-__Link(s):__   <br/>
+> __Описание:__ Fish - это бот который сделан для автоматической модерации фишинговых ссылок. Он имеет несколько опций конфигурации, типо что делать когда пользователь отправляет известную фишинговую ссылку и возможность убрать пользователей/роли из обнаружения ссылок.   <br/>
+__Ссылки:__   <br/>
 [Github](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
-[Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
-__Credit:__ @255834596766253057
+[Пригласить Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
+__Автор:__ @255834596766253057
 
 ### **OterluBot**
-> __Description:__ A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
-__Link:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-__Credit:__ @111891236792598528 @352832514819227655
+> __Описание:__ Бот модерации который использует ИИ для обнаружения и логирования токсичности направленной на другого пользователя, NSWF контент и матерщину. Также предоставляет немного статистики по здоровью сервера судя по логам. <br/>
+__Ссылка:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
+__Автора:__ @111891236792598528 @352832514819227655
 
+## **Почта Модераторов**
 
-## **ModMail**
-
-### **Dragory's ModMail** (self-host)
-> __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
-__Link(s):__   <br/>
+### **Почта Модераторов от Dragory** (само-хост)
+> __Описание:__ Бот Почты Модераторов - даёт возможность написать боту в лс, чтобы связаться с персоналом сервера заместо того чтобы писать в личные сообщения или упоминать публично на сервере. Эти личные сообщения ретранслируются в ветки Почты Модераторов, где персонал может ответить и разговаривать с пользователем. Для пользователя - весь процесс будет происходить в личных сообщениях бота. <br/>
+__Ссылки:__   <br/>
 [GitHub](https://github.com/Dragory/modmailbot)   <br/>
-[Config Template](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
-__Credit(s):__  @106391128718245888 @200987752794292224
+[Шаблон Конфигурации](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
+__Автора:__  @106391128718245888 @200987752794292224
 
-### **Kyb3r's Modmail** (self-host)
-> __Description:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
-__Link:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
-__Credit:__ @github:kyb3r
+### **Почта Модераторов от Kyb3r** (само-хост)
+> __Описание:__ Этот бот Почты Модераторов похож на Почту Модераторов Reddit в функционале и предназначении. Он служит общим почтовым ящиком для персонала сервера, чтобы беспрепятственно общаться со своими пользователями. <br/>
+__Ссылка:__ [Почта Модератороа от Kyb3r](https://github.com/kyb3r/modmail)   <br/>
+__Автор:__ @github:kyb3r
 
-### **Support Bot** (self-host)
-> __Description:__ A simple and lightweight Discord support/automated help desk!   <br/>
-__Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
-__Credit:__ @524371727812263948
+### **Бот Поддержки** (само-хост)
+> __Описание:__ Простая и легкая Discord поддержка/автоматизированная служба помощи!   <br/>
+__Ссылка:__ [Бот Поддержки](https://github.com/Gideon-foxo/support-bot)   <br/>
+__Автор:__ @524371727812263948
 
-## **Utility Bots**
+## **Боты Утилит**
 ### **OpenDiscordBots**
-> __Description:__ A collection of self-hostable, open-source simple Discord bots.  <br/>
-__Link(s):__   <br/>
+> __Описание:__ Список само-хост ботов с открытым исходным кодом.  <br/>
+__Ссылки:__   <br/>
 [OpenDiscordBots](https://opendiscordbots.com/)  <br/>
-[GitHub Org](https://github.com/OpenDiscordBots)  <br/>
-__Credit:__ @297045071457681409 @192060404501839872
+[GitHub Организация](https://github.com/OpenDiscordBots)  <br/>
+__Автора:__ @297045071457681409 @192060404501839872
 
-### **RTS Bot**
-> __Description:__ Bot with mental health & wellness resources.   <br/>
-__Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
-__Credit:__  @177886618714243073
+### **Бот Поддержки в Реальном Времени**
+> __Описание:__ Бот с ресурсами по психическому здоровью и самочувствию.   <br/>
+__Ссылка:__ [Бот Поддержки в Реальном Времени](http://rts.guardiansmh.org/bot)   <br/>
+__Автор:__  @177886618714243073
 
 ### **Publisher**
-> __Description:__ auto publishes messages in announcements channels.   <br/>
-__Link:__ [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
-__Credit:__ @255834596766253057
+> __Описание:__ Бот - который автоматически публикует сообщения в каналах с объявлениями.   <br/>
+__Ссылка:__ [Пригласить Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
+__Автор:__ @255834596766253057
 
-### **Activities Bot**
-> __Description:__ Starts activities available for voice channels.   <br/>
-__Link:__ [Invite Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
-__Credit:__ @190916650143318016
+### **Бот Активностей**
+> __Описание:__ Начинает активности для голосовых каналов.   <br/>
+__Ссылка:__ [Пригласить Бот Активностей](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
+__Автор:__ @190916650143318016
 
 ### **Reaction**
-> __Description:__ Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
-__Link(s):__ <br/>
-[Reaction Docs](https://rr.auttaja.io/)  <br/>
-[Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
-__Credit:__ @109710323094683648
+> __Описание:__ Легко-используемый бот, который заменяет реакции для ролей - кнопками и выпадающими списками.  <br/>
+__Ссылки:__ <br/>
+[Документация Reaction](https://rr.auttaja.io/)  <br/>
+[Пригласить Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
+__Автор:__ @109710323094683648
 
-### **Discord Status** (webhook)
-> __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
-__Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
-__Credit:__ @255834596766253057
+### R.Danny
 
-### **Datamining Updates**
-> __Description:__ The bot publishes any authorized commits in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
-__Link(s):__   <br/>
+> **Описание:** Один из первых Discord ботов, с тоннами команд утилит. <br/>
+**Ссылки:**  <br/>
+[Пригласить R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
+[Исходный код R.Danny](https://github.com/Rapptz/RoboDanny)  <br/>
+**Автор:** @80088516616269824
+
+### **Discord Статус** (вебхук)
+> __Описание:__ Предоставляет обновления с сайта статуса Discord, как ембеды внутри Discord.   <br/>
+__Ссылка:__ [Пригласить Discord Статус](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
+__Автор:__ @255834596766253057
+
+### **Обновления Датамайнеров**
+> __Описание:__ Бот, который публикует любые авторизованные коммиты в [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
+__Ссылки:__   <br/>
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
-[Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-[Datamining Website](https://datamining.otter.university/)  <br/>
-__Credit:__ @172557961133162496 @562415519454461962
+[Пригласить Обновения Датамайнеров](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
+[Сайт Датамайнеров](https://datamining.otter.university/)  <br/>
+__Автора:__ @172557961133162496 @562415519454461962
 
-### **Jagrosh's Music Bot** (self-host)
-> __Description:__ A music bot with step to step guide on self hosting.  <br/>
-__Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
-__Credit:__ @113156185389092864
+### **Музыкальный бот от Jagrosh** (само-хост)
+> __Описание:__ Музыкальный бот с пошаговым гайдом по само-хосту. <br/>
+__Ссылка:__ [Музыкальный бот от Jagrosh](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
+__Автор:__ @113156185389092864
 
-### **Tone Indicator Bot**
-> __Description:__ Find and understand tone indicators.   <br/>
-__Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
-__Credit:__ @173815235243802624
+### **Tone Indicator Бот**
+> __Описание:__ Найди и пойми индикаторы тона.   <br/>
+__Ссылка:__ [Пригласить Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
+__Автор:__ @173815235243802624
  
-### **AMA (Ask Me Anything)**
-> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
-__Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+### **AMA (Спроси Меня всё что Угодно)**
+> __Описание:__ Помогает проводить и управлять AMA события в Discord.   <br/>
+__Ссылка:__ [AMA Бот](https://automoderator.app/ama/)   <br/>
+__Автора:__ @223703707118731264 @104425482757357568
 
-### **Suggester**
-> __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
-__Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
-[Suggester Docs](https://suggester.js.org/)  <br/>
-__Credit:__ @327887845270487041 @255834596766253057
+### Suggester
 
-### **NSFW-Toggle**
-> __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
-__Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
-__Credit:__ @255834596766253057
+> **Описание:** Suggester это бот ориентированный на предложения, основное предназначение которого - предоставить возможность менеджерам серверов получать отзывы от их участников.  <br/>
+**Ссылки:** [Пригласить Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
+[Документация Suggester](https://suggester.js.org/)  <br/>
+**Автора:** @327887845270487041 @255834596766253057
+
+### **NSFW-Переключатель**
+> __Описание:__ Переключает режим NSFW в каналах. Полезный для мобильных девайсов, и особо для iOS - где сделать это невозможно.  <br/>
+__Ссылка:__ [Пригласить NSFW-Переключатель](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
+__Автор:__ @255834596766253057
 
 ### **ThreadPersist**
-> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
-__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
+> __Описание:__ Бот который держит все ветки активными, пока они не будут закрыты вручную.  <br/>
+__Ссылки:__ [Пригласить ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
 [Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
-__Credit:__ @297045071457681409
+__Автор:__ @297045071457681409
 
 ### **CleanLeave**
-> __Description:__ Automatically remove user join messages when the user leaves the server.  <br/>
-__Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
-[Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
-__Credit:__ @297045071457681409
+> __Описание:__ Автоматически удаляет сообщения о входе пользователей при выходе.  <br/>
+__Ссылки:__ [Пригласить CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
+[Само-хост CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
+__Автор:__ @297045071457681409
 
 ### **Iris XP**
-> __Description:__ Easy to use, fully customisable XP bot.  <br/>
-__Link:__ [Invite Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
-__Credit:__ @173815235243802624
+> __Описание:__ Легко-используемый и полностью настраиваемый бот опыта.  <br/>
+__Ссылка:__ [Пригласить Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
+__Автор:__ @173815235243802624
 
-### **Discord Invite Tracker** (self-host)
-> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
-__Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
-__Credit:__ @422820341791064085
+### **Трекер Discord Приглашений** (само-хост)
+> __Описание:__ Отслеживай приглашения на ваш сервер, чтобы узнать кто пригласил кого и с каким приглашением. <br/>
+__Ссылка:__ [Трекер Discord Приглашений](https://github.com/Androz2091/discord-invites-tracker)  <br/>
+__Автор:__ @422820341791064085
 
 ### **WidgetBot**
-> __Description:__ Create good looking widgets for your websites.  <br/>
-__Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
-__Credit:__ @github:widgetbot-io
+> __Описание:__ Создавай симпатичные виджеты для твоих сайтов.  <br/>
+__Ссылка:__ [WidgetBot](https://widgetbot.io/)  <br/>
+__Автор:__ @github:widgetbot-io
 
 ### **Wumplus**
-> __Description:__ Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
-__Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
-__Credit:__ @305647182198079489 @852608147554172928
+> __Описание:__ Бот утилит для вещей, обычные пользователи не могут делать, таких как: открытие активностей, привязка эмодзи к ролям и нахождение игр.  <br/>
+__Ссылка:__ [Пригласить Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
+__Автора:__ @305647182198079489 @852608147554172928
 
 ### **Antouto**
-> __Description:__ Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
-__Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
-__Credit:__ @316860714260234243
+> __Описание:__ Antouto - это бот который позволяет получить расширную информацию о: приглашениях, серверах, пользователях, переопределениях сборки и многом другом! <br/>
+__Ссылка:__ [Пригласить Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
+__Автор:__ @316860714260234243
 
 ### **Craig**
-> __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
-__Link(s):__  <br/> 
-[Craig Website](https://craig.chat/home/)  <br/>
-[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
-__Credit:__ @171244192696238080
+> __Описание:__ Бот - который может записывать одну или больше трибун или голосовых каналов одновременно.  <br/>
+__Ссылки:__  <br/> 
+[Сайт Craig](https://craig.chat/home/)  <br/>
+[Пригласить Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
+__Автор:__ @171244192696238080
 
 ### **Tunes Ninja**
-> __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
-__Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
-__Credit:__ @657057112593268756
+> __Описание:__ Когда ссылка на песню будет отправлена в чат. Этот бот отправит ембед с этой-же песней, во всех популярных музыкальных площадках.  <br/>
+__Ссылка:__ [Сайт Tunes Ninja](https://tunes.ninja/)   <br/>
+__Автор:__ @657057112593268756
 
 ### **StatusBot**
-> __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
-__Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
-__Credit:__ @282565295351136256
+> __Описание:__ Бот который может отслеживать производительность вашего бота и отправлять уведомления при обнаружении неполадок. <br/>
+__Ссылка:__ [Сайт StatusBot](https://www.statusbot.gg/) <br/>
+__Автор:__ @282565295351136256
 
 ### **Forms**
-> __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
-__Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
-__Credit:__ @316860714260234243
+> __Описание:__ Создавай пользовательские бланки и отправляй представления в выбранный канал используя вебхуки. <br/>
+__Ссылка:__ [Демо, Документация и Ссылка на приглашение](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
+__Автор:__ @316860714260234243
+
+### Emoji Guardian
+
+> **Описание:** Управляет смайликами, также имеет команды которые делают, то, что обычный пользователь не может. <br/>
+**Ссылкм:**  <br/>
+[Сайт Emoji Guardian](https://emojiguardian.xyz)  <br/>
+[Пригласить Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
+**Автора:** @537875750955778058 @305647182198079489
+
+### Now Live
+> __Описание:__ Now Live - это анонсировщик стримов который поддерживает: Twitch, YouTubr и Trovo! <br/>
+__Ссылка:__ [Пригласить Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
+[Сайт Now Live](https://nowlivebot.com/)  <br/>
+**Автор:** @148336120936005632
+
+## Весёлые боты
+
+### Правда или Ложь
+
+> **Описание:** Бот для игры в: Правду или Ложь, Я Никогда Не.. и Чтобы Ты Выбрал.  <br/>
+**Ссылки:**  <br/>
+[Пригласить бота Правда или Ложь](https://discord.com/oauth2/authorize?client_id=692045914436796436&permissions=19456&scope=bot%20applications.commands)  <br/>
+[Сайт бота Правда или Ложь](https://truthordarebot.xyz/)  <br/>
+**Автор:** @276544649148235776
+
+### TacoShack
+
+> **Описание:** Бот симуляции владения и управления тако лачугой.  <br/>
+**Ссылки:** <br/>
+[Пригласить TacoShack](https://discord.com/oauth2/authorize?client_id=490707751832649738&permissions=67497024&scope=bot%20applications.commands)  <br/>
+[Тех. Поддержка TacoShack](https://discord.gg/tacoshack)  <br/>
+**Автор:** @280428044156534784
+
+### Tourney Бот
+
+> **Description:** Tourney Бот - лучший способ организации турниров в пределах Discord. Используя наши мощные фичи автоматизации, вы можете за несколько кликов: создавать, персонализировать и приглашать команды или игроков в свою групппу.  <br/>
+**Ссылки:** <br/>
+[Пригласить Tourney Бота](https://tourneybot.gg/invite-tourney-bot)  <br/>
+[Тех. Поддержка Tourney Бота](https://tourneybot.gg/support)  <br/>
+**Автор:** @942821573302304869
