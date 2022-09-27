@@ -1,38 +1,38 @@
 ---
-title: Contribution
+title: Внеси свій вклад
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Перелік безлічі корисних ресурсів та утиліт Discord для всіх типів користувачів, від новачків до досвідчених користувачів.
 ---
 
-# Contribution
+# Внеси свій вклад
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Знайшли помилку чи описку? Маєте хороший ресурс, який підходить до цього переліку? Станьте учасником проекту і будьте у славному списку учасників нижче!<br/> 
+Щоб зробити свій внесок, ви можете зробити «pull request» у цій вікі або надішліть повідомлення @755792681313108018, щоб відредагувати вікі, а також внести себе до списку.
+Ви також можете приєднатися до [офіційного серверу проекту](https://discord.gg/yxbqz9pNxS), щоб зробити свій внесок там.
 
-## Contributors
+## Учасники проекту
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+Цей проект потребував не однієї пари рук, і ми пишаємося тим, що маємо таку команду учасників, які допомогли нам з цим проектом!<br/>
+Ми хочемо подякувати:<br/>
+@856780995629154305 - Технічний адміністратор веб-сайту <br/>
+@347727875266576395 - Архітектор вікі <br/>
+@391660873409888277 - Редактор вікі <br/>
+@363481883369013259 - Менеджер GitHub / Організатор документації <br/>
+@337654195526303746 - Дослідник ресурсів / технічний адміністратор <br/>
+@337104786593939456 - Організатор документації <br/>
+@485676072176713729 - Дослідник ресурсів / технічний адміністратор <br/>
+@762387276595724308 - Дослідник ресурсів / технічний адміністратор <br/>
+@378537973215657984 - Менеджер спільноти та контенту / Організатор документації <br/>
+@287711497118023692 - Дослідник ресурсів / технічний адміністратор<br/>
+@192060404501839872 - Дизайнер <br/>
+@386861188891279362 - Архітектор веб=сайту / Організатор документації <br/>
+@102102717165506560 - Консалтинг з питань зростання / Куратор ресурсів <br/>
+@755792681313108018 - *У мене виникла така ідея і я зробив все вищезазначене*
 
-## How to test changes locally
+## Як протестувати зміни локально
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
+Маєте чудовий «pull request», але не знаєте, як він виглядає? Не проблема!<br/>
 If you're in a fork of the repository it's as easy as running these 2 commands:
 
 ```
